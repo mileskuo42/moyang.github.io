@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Moyang Guo (郭漠杨)"
+title                    : "Moyang Guo"
 title_separator          : "-"
 name                     : &name "Moyang Guo"
 description              : &description "Ph.D. student in Computer Science at Northwestern University, advised by Prof. Xinyu Xing. Researching Multi-turn RLHF, LLM Agents for Software Engineering, and AI Security."   # Update this with a general description of your site, this is the default if not overridden by a page
