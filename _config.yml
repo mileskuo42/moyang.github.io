@@ -23,7 +23,7 @@ repository               : "mileskuo42/moyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Moyang Guo"
   pronouns         : # example: "she/her"  
   bio              : "I am a first-year Ph.D. student in CS at Northwestern University, advised by Prof. Xinyu Xing. My research bridges AI Security and LLM Agents, focusing on Multi-turn RLHF and Automated Software Engineering."
