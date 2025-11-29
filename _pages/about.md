@@ -19,7 +19,7 @@ My work explores how to make large language models more reliable, secure, and ef
 
 Education
 ======
-- **Ph.D. in Computer Science**, Northwestern University, 2024 - Present
+- **Ph.D. in Computer Science**, Northwestern University, 2025 - Present
   - Advisor: Prof. Xinyu Xing
 
 Selected Publications
